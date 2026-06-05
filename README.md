@@ -1,3 +1,4 @@
+https://youtube.com/shorts/-fLk9oqEUls?si=KVMjBsyJLu_AhUqc
 AI Disclosure: this was made with Claude
 
 Bill of Materials
