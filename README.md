@@ -34,6 +34,8 @@ Drag and drop the .uf2 file onto that drive
 It reboots automatically as a CircuitPython device
 
 Download the CircuitPython UF2 for Pico here: https://circuitpython.org/board/raspberry_pi_pico
+
 Step 2 — Install the HID library
 Download the CircuitPython library bundle from https://circuitpython.org/libraries, then copy adafruit_hid from the bundle into the lib/ folder on the Pico's USB drive.
+
 Step 3 — Replace main.py
