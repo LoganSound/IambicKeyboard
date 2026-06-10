@@ -2,9 +2,13 @@ https://youtube.com/shorts/-fLk9oqEUls?si=KVMjBsyJLu_AhUqc
 AI Disclosure: this was made with Claude
 
 Bill of Materials
+
 -Raspberry Pi Pico and USB cable
+
 -Iambic paddle with TRS output
+
 -TRS audio cable (or half of one at least)
+
 -soldering iron, solder though probably possible with a breadboard
 
 Hardware Design
